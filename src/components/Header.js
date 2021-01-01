@@ -21,7 +21,7 @@ function Header() {
     return (
         <div className="App">
             <Grid className={classes.headerWrapper}>
-                Jet Test Frontend
+                Memory game by maxAkkerman
             </Grid>
 
         </div>
